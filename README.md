@@ -42,7 +42,7 @@
 
 ![Untitled](Thompson%20CTF%206c92a400c99d4f839592c3e82b7415b5/Untitled%208.png)
 
-### Once that is all setup click on the shell file we just uploaded and …. we get a shell.
+### Once that is all setup click on the shell file we just uploaded and ... we get a shell.
 
 ![Untitled](Thompson%20CTF%206c92a400c99d4f839592c3e82b7415b5/Untitled%209.png)
 
