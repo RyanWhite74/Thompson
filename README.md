@@ -56,7 +56,7 @@
 
 # Privilege escalation and root.txt
 
-### If we check out the crontab we can see a job running as root associated with the [id.sh](http://id.sh) file, we found in the jack directory.
+### If we check out the crontab we can see a job running as root associated with the id.sh file, we found in the jack directory.
 
 ![Untitled](Thompson%20CTF%206c92a400c99d4f839592c3e82b7415b5/Untitled%2011.png)
 
@@ -68,7 +68,7 @@
 
 ![Untitled](Thompson%20CTF%206c92a400c99d4f839592c3e82b7415b5/Untitled%2013.png)
 
-### The next way we can get the flag is by becoming root to do that we will echo a tcp reverse shell into the [id.sh](http://id.sh) file and a netcat listener.
+### The next way we can get the flag is by becoming root to do that we will echo a tcp reverse shell into the id.sh file and a netcat listener.
 
 ![Untitled](Thompson%20CTF%206c92a400c99d4f839592c3e82b7415b5/Untitled%2014.png)
 
